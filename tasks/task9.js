@@ -7,4 +7,4 @@ const countVowels = (letter) => {
 
   return `The number of vowels in the given string is ${numberOfVowels}`;
 };
-console.log(countVowels("Hello"));
+console.log(countVowels("Hello Gello"));
